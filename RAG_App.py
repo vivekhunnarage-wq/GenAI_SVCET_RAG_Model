@@ -24,7 +24,7 @@ groq_api_key = st.secrets["GROQ"]
 
 # ------------------ UI ------------------
 st.set_page_config(page_title="Dynamic RAG with Groq", layout="wide")
-st.image("Screenshot(1).png")
+st.image("Time table.html.png")
 st.title("Dynamic RAG with Groq, FAISS, and Llama3")
 
 # ------------------ SESSION STATE ------------------
